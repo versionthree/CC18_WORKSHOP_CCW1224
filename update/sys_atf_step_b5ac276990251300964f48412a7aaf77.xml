@@ -30,16 +30,16 @@ and Choice = C++</description>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>b5ac276990251300964f48412a7aaf77</document_key>
-        <order>100</order>
+        <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 21:04:21</sys_created_on>
-        <sys_id>2ebc676990251300964f48412a7aaffd</sys_id>
+        <sys_id>eebc676990251300964f48412a7aaffd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-18 21:04:21</sys_updated_on>
-        <value>1</value>
-        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
+        <value>x_snc_polls_choices</value>
+        <variable display_value="">90144b535320220002c6435723dc3488</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -58,16 +58,16 @@ and Choice = C++</description>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>b5ac276990251300964f48412a7aaf77</document_key>
-        <order>200</order>
+        <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 21:04:21</sys_created_on>
-        <sys_id>eebc676990251300964f48412a7aaffd</sys_id>
+        <sys_id>2ebc676990251300964f48412a7aaffd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-18 21:04:21</sys_updated_on>
-        <value>x_snc_polls_choices</value>
-        <variable display_value="">90144b535320220002c6435723dc3488</variable>
+        <value>1</value>
+        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=b5ac276990251300964f48412a7aaf77"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">

@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_snc_polls_question" element="NULL" name="x_snc_polls_question" parent="NULL" relationship="NULL" sys_domain="global" view="c54e3051f40013006517d6864823b984">e4d9a72990251300964f48412a7aafb5</list_id>
+            <list_id display_value="x_snc_polls_question" element="NULL" name="x_snc_polls_question" parent="NULL" relationship="NULL" sys_domain="global" view="ead33252083013007f4414e4d9da2896">e4d9a72990251300964f48412a7aafb5</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -41,7 +41,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-18 20:51:39</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">c54e3051f40013006517d6864823b984</view>
+            <view display_value="Reference List" name="sys_ref_list">ead33252083013007f4414e4d9da2896</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

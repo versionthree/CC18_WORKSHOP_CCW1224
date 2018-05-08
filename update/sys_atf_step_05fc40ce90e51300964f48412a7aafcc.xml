@@ -27,16 +27,16 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>05fc40ce90e51300964f48412a7aafcc</document_key>
-        <order>100</order>
+        <order>120</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-19 18:03:47</sys_created_on>
-        <sys_id>17fc00ce90e51300964f48412a7aaff9</sys_id>
+        <sys_id>9ffc00ce90e51300964f48412a7aaff8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-19 18:03:47</sys_updated_on>
-        <value>/result/questions/questions/users/users/answer</value>
-        <variable display_value="">5a9258199f132200ef4afa7dc67fcfb4</variable>
+        <value>Java</value>
+        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -55,15 +55,15 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>05fc40ce90e51300964f48412a7aafcc</document_key>
-        <order>120</order>
+        <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-19 18:03:47</sys_created_on>
-        <sys_id>9ffc00ce90e51300964f48412a7aaff8</sys_id>
+        <sys_id>17fc00ce90e51300964f48412a7aaff9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-19 18:03:47</sys_updated_on>
-        <value>Java</value>
-        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
+        <value>/result/questions/questions/users/users/answer</value>
+        <variable display_value="">5a9258199f132200ef4afa7dc67fcfb4</variable>
     </sys_variable_value>
 </record_update>

@@ -30,16 +30,16 @@ and Question = What is your favorite programming language?</description>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>ab2b988290291300964f48412a7aaf09</document_key>
-        <order>400</order>
+        <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-19 19:06:05</sys_created_on>
-        <sys_id>484b988290291300964f48412a7aaf05</sys_id>
+        <sys_id>c04b988290291300964f48412a7aaf05</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-19 19:06:05</sys_updated_on>
-        <value>poll={{step['301b588290291300964f48412a7aaf00'].record_id}}^question=What is your favorite programming language?^EQ</value>
-        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
+        <value>1</value>
+        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -58,16 +58,16 @@ and Question = What is your favorite programming language?</description>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>ab2b988290291300964f48412a7aaf09</document_key>
-        <order>100</order>
+        <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-19 19:06:05</sys_created_on>
-        <sys_id>c04b988290291300964f48412a7aaf05</sys_id>
+        <sys_id>484b988290291300964f48412a7aaf05</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-19 19:06:05</sys_updated_on>
-        <value>1</value>
-        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
+        <value>poll={{step['301b588290291300964f48412a7aaf00'].record_id}}^question=What is your favorite programming language?^EQ</value>
+        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=ab2b988290291300964f48412a7aaf09"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">

@@ -30,16 +30,16 @@ and Choice = Java</description>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>0cfbef2990251300964f48412a7aaf77</document_key>
-        <order>400</order>
+        <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 21:01:09</sys_created_on>
-        <sys_id>6bfb636990251300964f48412a7aaf78</sys_id>
+        <sys_id>e3fb636990251300964f48412a7aaf78</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-18 21:01:09</sys_updated_on>
-        <value>question={{step['929baf2990251300964f48412a7aafcf'].record_id}}^choice=Java^EQ</value>
-        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
+        <value>1</value>
+        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -58,16 +58,16 @@ and Choice = Java</description>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>0cfbef2990251300964f48412a7aaf77</document_key>
-        <order>100</order>
+        <order>400</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 21:01:09</sys_created_on>
-        <sys_id>e3fb636990251300964f48412a7aaf78</sys_id>
+        <sys_id>6bfb636990251300964f48412a7aaf78</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-18 21:01:09</sys_updated_on>
-        <value>1</value>
-        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
+        <value>question={{step['929baf2990251300964f48412a7aafcf'].record_id}}^choice=Java^EQ</value>
+        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=0cfbef2990251300964f48412a7aaf77"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">

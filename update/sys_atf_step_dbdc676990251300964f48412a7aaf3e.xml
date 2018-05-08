@@ -28,16 +28,23 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>dbdc676990251300964f48412a7aaf3e</document_key>
-        <order>0</order>
+        <order>5</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 21:05:32</sys_created_on>
-        <sys_id>000de76990251300964f48412a7aaf88</sys_id>
+        <sys_id>480de76990251300964f48412a7aaf88</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-18 21:05:32</sys_updated_on>
-        <value>d0ddd6e590e11300964f48412a7aaf9f</value>
-        <variable display_value="">020a6af09fd32200ef4afa7dc67fcfec</variable>
+        <value>{&#13;
+"votes": [&#13;
+{&#13;
+"question_id": "{{step['137c276990251300964f48412a7aafac'].record_id}}",&#13;
+"vote": "Java"&#13;
+}&#13;
+]&#13;
+}</value>
+        <variable display_value="">81e042650b3222000b7da95e93673aa2</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -56,23 +63,16 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>dbdc676990251300964f48412a7aaf3e</document_key>
-        <order>5</order>
+        <order>0</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 21:05:32</sys_created_on>
-        <sys_id>480de76990251300964f48412a7aaf88</sys_id>
+        <sys_id>000de76990251300964f48412a7aaf88</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-18 21:05:32</sys_updated_on>
-        <value>{&#13;
-"votes": [&#13;
-{&#13;
-"question_id": "{{step['137c276990251300964f48412a7aafac'].record_id}}",&#13;
-"vote": "Java"&#13;
-}&#13;
-]&#13;
-}</value>
-        <variable display_value="">81e042650b3222000b7da95e93673aa2</variable>
+        <value>d0ddd6e590e11300964f48412a7aaf9f</value>
+        <variable display_value="">020a6af09fd32200ef4afa7dc67fcfec</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>

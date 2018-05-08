@@ -27,16 +27,16 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>571b888e90e51300964f48412a7aaf8b</document_key>
-        <order>120</order>
+        <order>110</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-19 17:56:28</sys_created_on>
-        <sys_id>0c5b888e90e51300964f48412a7aaf83</sys_id>
+        <sys_id>c05b888e90e51300964f48412a7aaf84</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-19 17:56:28</sys_updated_on>
-        <value>What is your favorite programming language?</value>
-        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
+        <value>equals</value>
+        <variable display_value="">2db298199f132200ef4afa7dc67fcfbc</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -55,15 +55,15 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>571b888e90e51300964f48412a7aaf8b</document_key>
-        <order>110</order>
+        <order>120</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-19 17:56:28</sys_created_on>
-        <sys_id>c05b888e90e51300964f48412a7aaf84</sys_id>
+        <sys_id>0c5b888e90e51300964f48412a7aaf83</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-19 17:56:28</sys_updated_on>
-        <value>equals</value>
-        <variable display_value="">2db298199f132200ef4afa7dc67fcfbc</variable>
+        <value>What is your favorite programming language?</value>
+        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
     </sys_variable_value>
 </record_update>

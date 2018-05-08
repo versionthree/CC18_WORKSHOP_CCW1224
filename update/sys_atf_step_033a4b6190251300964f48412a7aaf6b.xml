@@ -27,16 +27,16 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>033a4b6190251300964f48412a7aaf6b</document_key>
-        <order>100</order>
+        <order>120</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 18:33:42</sys_created_on>
-        <sys_id>773a4b6190251300964f48412a7aaf62</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>ff3a4b6190251300964f48412a7aaf61</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-18 18:33:42</sys_updated_on>
-        <value>/result/name</value>
-        <variable display_value="">5a9258199f132200ef4afa7dc67fcfb4</variable>
+        <sys_updated_on>2018-04-19 18:10:04</sys_updated_on>
+        <value>Programming Language Poll from Test</value>
+        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
@@ -55,15 +55,15 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>033a4b6190251300964f48412a7aaf6b</document_key>
-        <order>120</order>
+        <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 18:33:42</sys_created_on>
-        <sys_id>ff3a4b6190251300964f48412a7aaf61</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>773a4b6190251300964f48412a7aaf62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-19 18:10:04</sys_updated_on>
-        <value>Programming Language Poll from Test</value>
-        <variable display_value="">7b139c199f132200ef4afa7dc67fcfb3</variable>
+        <sys_updated_on>2018-04-18 18:33:42</sys_updated_on>
+        <value>/result/name</value>
+        <variable display_value="">5a9258199f132200ef4afa7dc67fcfb4</variable>
     </sys_variable_value>
 </record_update>

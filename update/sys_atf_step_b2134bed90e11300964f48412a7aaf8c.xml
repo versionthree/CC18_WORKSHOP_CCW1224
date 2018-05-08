@@ -27,20 +27,6 @@
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
         <document_key>b2134bed90e11300964f48412a7aaf8c</document_key>
-        <order>110</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-04-18 18:02:33</sys_created_on>
-        <sys_id>6f134bed90e11300964f48412a7aaf93</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-18 18:02:33</sys_updated_on>
-        <value>201</value>
-        <variable display_value="">9f5f67709f132200ef4afa7dc67fcf94</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_atf_step</document>
-        <document_key>b2134bed90e11300964f48412a7aaf8c</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -51,5 +37,19 @@
         <sys_updated_on>2018-04-18 18:02:33</sys_updated_on>
         <value>equals</value>
         <variable display_value="">1d94cb1f3b8032000774229c93efc419</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b2134bed90e11300964f48412a7aaf8c</document_key>
+        <order>110</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 18:02:33</sys_created_on>
+        <sys_id>6f134bed90e11300964f48412a7aaf93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 18:02:33</sys_updated_on>
+        <value>201</value>
+        <variable display_value="">9f5f67709f132200ef4afa7dc67fcf94</variable>
     </sys_variable_value>
 </record_update>
